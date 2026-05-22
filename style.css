@@ -1,0 +1,95 @@
+body {
+  background-color:   aliceblue;
+  background-image:url( دليفريpng);
+  background-repeat:no-repeat;
+ background-size:400px ;
+}
+
+#hh {
+  color: brown;
+  padding:10px;
+  border-style: groove;
+  border-radius: 20px;
+  border-width:10px;
+  border-color: brown;
+}
+
+
+
+
+ul li ul{
+  display: block;
+}
+
+
+
+
+#gr2 {
+  background-color: goldenrod;
+  width:250px;
+}
+
+h {
+  font-weight: bold;
+}
+
+
+#gr1{
+ list-style:none ; 
+padding:0 ; 
+margin:0 ;  
+  color:   aliceblue;
+background-color: firebrick;
+}
+
+ul li {
+  display:inline-block;
+  margin:10px ;
+  font-weight:bold ;
+  
+}
+
+#hx {
+  width:600px ;
+}
+
+
+h5 {
+  color: aliceblue;
+  background-color: brown;
+}
+
+#hhx{
+  background: aliceblue;
+   padding:5px;
+  border-style:groove;
+  border-radius: 20px;
+  border-color: black ;
+  float: left;
+}
+
+
+
+#hhhx{
+   padding:5px;
+  float: left;
+  border-style:groove;
+  border-color:  black;
+}
+
+
+
+body{
+
+button{
+        background: orange;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+} 
+
+
+  
+  
+  
